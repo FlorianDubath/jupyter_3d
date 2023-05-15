@@ -23,4 +23,4 @@ F. Dubath
 
 ## License
 
-You are free to re-use and modify the content of this repository, no warranty of any sort. I'd appreciate if you put a link to your realization in the issue
+You are free to re-use and modify the content of this repository, no warranty of any sort. I'd appreciate if you put a link to your realization in the (dedicated issue)[https://github.com/FlorianDubath/jupyter_3d/issues/1]
