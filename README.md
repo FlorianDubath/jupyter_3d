@@ -13,6 +13,8 @@ Here is a screenshot of blender rendering of the example
 
 In this tool you input a 3d surface as a function of the horizontal coordinates, it creates a triangular mesh of profiles to be cut with laser and assembled to reconstruct the surface. 
 The output are laser cutter friendly .svg files.
+
+Here is a picture of the exemple build out of cardboard
 ![Cardboard result](https://github.com/FlorianDubath/jupyter_3d/blob/main/surface_profile/example_cardboard.jpg?raw=true)
 
 ## Autor
