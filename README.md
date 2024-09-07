@@ -6,7 +6,7 @@ This is a collection of tools for creating 3d object using laser cutter and CNC.
 Input the profile of a revolution surface to this tool and it will output to you the number of row and the number of stitches in each row so you can create the revolution surface with a crochet.
 
 Here is an exemple for sphere (and an older less generic version of this code)
-![Crochetted jungling balls](https://github.com/FlorianDubath/jupyter_3d/blob/main/crochet_revolution_surface/jungling.jpgg?raw=true)
+![Crochetted jungling balls](https://github.com/FlorianDubath/jupyter_3d/blob/main/crochet_revolution_surface/jungling.jpg?raw=true)
 
 ### greyscale_to_surface_3d
 
