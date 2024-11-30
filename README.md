@@ -23,6 +23,13 @@ The output are laser cutter friendly .svg files.
 Here is a picture of the exemple build out of cardboard
 ![Cardboard result](https://github.com/FlorianDubath/jupyter_3d/blob/main/surface_profile/example_cardboard.jpg?raw=true)
 
+### Crystal
+
+Few years ago I have wrote a web tool for creating paper cristal (https://dubath.net/cristal/). This jupyter notebook is a transcription of this code exporting .stl files so you can use them in blender or 3D-print them... 
+
+Here is a screenshot of blender rendering of the example
+![3D from .stl](https://github.com/FlorianDubath/jupyter_3d/blob/main/crystal/example.png?raw=true)
+
 ## Autor
 
 F. Dubath
